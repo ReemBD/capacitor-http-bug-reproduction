@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">capacitor-native-plugin-bug-code-repro</string>
+    <string name="title_activity_main">capacitor-native-plugin-bug-code-repro</string>
+    <string name="package_name">com.reembd.bugrepro</string>
+    <string name="custom_url_scheme">com.reembd.bugrepro</string>
+</resources>
